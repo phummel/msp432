@@ -2,4 +2,4 @@
 
 Collection of programs for Texas Instruments MSP-EXP432P401R development board. This uses TI-MSP432 microcontroller with an ARM Cortex-M4F core and a set of peripherals similar to those in the MSP430 series of microcontrollers. These programs were written in developing and teaching the Cal Poly, San Luis Obispo course CPE-329 / EE-329 Programmable Logic and Microprocessor-Based Systems Design.
 
-Unfortunately, the MSP432P4 series of microcontrollers was discontinued in 2020
+These programs were written and built using Code Composer Studio version 10. Unfortunately, the MSP432P4 series of microcontrollers was discontinued in 2021
